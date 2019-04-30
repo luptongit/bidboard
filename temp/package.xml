@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>BidBoard_2019</fullName>
+    <types>
+        <members>Account_Role__c.Account_Status__c</members>
+        <members>Account_Role__c.Account__c</members>
+        <members>Account_Role__c.Construction_Job__c</members>
+        <members>Account_Role__c.Role_Discipline__c</members>
+        <members>Competitor__c.Awarded__c</members>
+        <members>Competitor__c.Competitor_Bid_Amount__c</members>
+        <members>Competitor__c.Competitor__c</members>
+        <members>Competitor__c.Construction_Job__c</members>
+        <members>Construction_Job__c.Bid_Status__c</members>
+        <members>Construction_Job__c.Building_Type__c</members>
+        <members>Construction_Job__c.City__c</members>
+        <members>Construction_Job__c.Construction_Status__c</members>
+        <members>Construction_Job__c.State__c</members>
+        <members>Construction_Job__c.Total_Project_Value__c</members>
+        <members>Opportunity.Construction_Job__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account_Role__c</members>
+        <members>Competitor__c</members>
+        <members>Construction_Job__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Construction_Job__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Construction_Job_Record_Page</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Account_Role__c-Account Role Layout</members>
+        <members>Competitor__c-Competitor Layout</members>
+        <members>Construction_Job__c-Construction Job Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Construction_Job__c.All</members>
+        <members>Construction_Job__c.Construction_Jobs_by_Status</members>
+        <name>ListView</name>
+    </types>
+    <version>45.0</version>
+</Package>

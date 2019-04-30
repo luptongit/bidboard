@@ -1,0 +1,686 @@
+[
+    [
+        "/Users/jlupton/Projects/bidboard/force-app",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1556651405364,
+            "changeTime": 1556651405364,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1556651405364,
+            "changeTime": 1556651405364,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1556652319692,
+            "changeTime": 1556652319692,
+            "contentHash": "685371fa3d07ececda2d23f0f9bb04cba3691a77"
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1556651405365,
+            "changeTime": 1556651405365,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1556651752427,
+            "changeTime": 1556651752427,
+            "contentHash": "7d1542a6da8ace27d386d0182966c3af89e83d4f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/flexipages/Construction_Job_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/flexipages/Construction_Job_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 4366,
+            "modifiedTime": 1556651752428,
+            "changeTime": 1556651752428,
+            "contentHash": "a462d4203fa7307ae9b077fa4bed03db9ca869f1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1556651752446,
+            "changeTime": 1556651752446,
+            "contentHash": "6ae5554e90072a344c9adcd4c26c5fb53df46914",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/layouts/Account_Role__c-Account Role Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/layouts/Account_Role__c-Account Role Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3226,
+            "modifiedTime": 1556651752433,
+            "changeTime": 1556651752433,
+            "contentHash": "46e7809bc45cf08d3952be173347e258044d8a47",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/layouts/Competitor__c-Competitor Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/layouts/Competitor__c-Competitor Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3228,
+            "modifiedTime": 1556651752440,
+            "changeTime": 1556651752440,
+            "contentHash": "8fb7b8b6c6e0a272d748a0b3595cef501a065b88",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/layouts/Construction_Job__c-Construction Job Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/layouts/Construction_Job__c-Construction Job Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5765,
+            "modifiedTime": 1556651752446,
+            "changeTime": 1556651752446,
+            "contentHash": "1df551dc853ac505323aa34b9ce971026eabf35c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/lwc",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/lwc",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1556651846381,
+            "changeTime": 1556651846381,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1556651752628,
+            "changeTime": 1556651752628,
+            "contentHash": "53dcf8f34a6a8e5c363b2e82b353d54c313f4701",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1556651752467,
+            "changeTime": 1556651752467,
+            "contentHash": "8981b6f176300e587b5f5db12d094a096bf8fc87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/Account_Role__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/Account_Role__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2205,
+            "modifiedTime": 1556651752466,
+            "changeTime": 1556651752466,
+            "contentHash": "591ef92efdf11ccfdd358692eb76991d4a3dfdb5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1556651752479,
+            "changeTime": 1556651752479,
+            "contentHash": "8e761b8b97183f31c898ad8d54ed55700e8397ff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields/Account_Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields/Account_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1208,
+            "modifiedTime": 1556651752476,
+            "changeTime": 1556651752476,
+            "contentHash": "8e851f2a7ca142573c5af713cb6312e6f7ac88d2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields/Account__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields/Account__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1556651752478,
+            "changeTime": 1556651752478,
+            "contentHash": "c76a41d17a552d1619d2033372bb366c1fcd5066",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields/Construction_Job__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields/Construction_Job__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 579,
+            "modifiedTime": 1556651752479,
+            "changeTime": 1556651752479,
+            "contentHash": "2ab91492eb10d3f7bd4438a0d802829c9894eca7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields/Role_Discipline__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Account_Role__c/fields/Role_Discipline__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 415,
+            "modifiedTime": 1556651752479,
+            "changeTime": 1556651752479,
+            "contentHash": "306ace4bbd20527e3793071311f77624531ac45b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1556651752495,
+            "changeTime": 1556651752495,
+            "contentHash": "26c52edbad37d22f625d75923d1546f1c90f163a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/Competitor__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/Competitor__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2164,
+            "modifiedTime": 1556651752495,
+            "changeTime": 1556651752495,
+            "contentHash": "89921dab81f6a7ac873bfcd7d1bae87d2c1b154f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1556651752497,
+            "changeTime": 1556651752497,
+            "contentHash": "707ff8477eaf133cdbf57f7cac3b633414a6cac9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields/Awarded__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields/Awarded__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1556651752496,
+            "changeTime": 1556651752496,
+            "contentHash": "02043ced82ef47936a021819cac4524b8d2d35da",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields/Competitor_Bid_Amount__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields/Competitor_Bid_Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 430,
+            "modifiedTime": 1556651752496,
+            "changeTime": 1556651752496,
+            "contentHash": "e17a9831b3c81ad0e1eee161eb723c8e7f284846",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields/Competitor__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields/Competitor__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 557,
+            "modifiedTime": 1556651752497,
+            "changeTime": 1556651752497,
+            "contentHash": "663b439355be094ce480520be19b6c26faab4cb3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields/Construction_Job__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Competitor__c/fields/Construction_Job__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 575,
+            "modifiedTime": 1556651752497,
+            "changeTime": 1556651752497,
+            "contentHash": "db6969b47227f060872c5c41d81c410985b594bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1556651752613,
+            "changeTime": 1556651752613,
+            "contentHash": "088dcee5f9dad798afc177757b60b2e94f072624",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/Construction_Job__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/Construction_Job__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2426,
+            "modifiedTime": 1556651752566,
+            "changeTime": 1556651752566,
+            "contentHash": "7e77528277708bec0fa556ecedd58e50e403eb81",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields",
+            "isDirectory": true,
+            "size": 256,
+            "modifiedTime": 1556651752611,
+            "changeTime": 1556651752611,
+            "contentHash": "21a60443f08883f79b88105cab096851c7e47ee6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/Bid_Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/Bid_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1401,
+            "modifiedTime": 1556651752568,
+            "changeTime": 1556651752568,
+            "contentHash": "daeb5e7e735087ec223768456dad1b34b45f22c3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/Building_Type__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/Building_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1770,
+            "modifiedTime": 1556651752574,
+            "changeTime": 1556651752574,
+            "contentHash": "53a86365aaf785e0bfa83c64c8b77762259fc9e2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/City__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1556651752582,
+            "changeTime": 1556651752582,
+            "contentHash": "d7e68b2f0946a4333a751bc97c669ec14fee9600",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/Construction_Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/Construction_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1967,
+            "modifiedTime": 1556651752589,
+            "changeTime": 1556651752589,
+            "contentHash": "d78c87711bcb1175edbfea12fa140a163dea4e73",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/State__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 9547,
+            "modifiedTime": 1556651752606,
+            "changeTime": 1556651752606,
+            "contentHash": "0bf2b8f890acd4d6fa555a484221ceac28485bc2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/Total_Project_Value__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/fields/Total_Project_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 473,
+            "modifiedTime": 1556651752611,
+            "changeTime": 1556651752611,
+            "contentHash": "9c1503f8e96bf5cb9915779c3489c98887bc2cb4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/listViews",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/listViews",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1556651752614,
+            "changeTime": 1556651752614,
+            "contentHash": "be7c1af369d69ee8301bb50d6df6b2750a9d509b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1556651752613,
+            "changeTime": 1556651752613,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/listViews/Construction_Jobs_by_Status.listView-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Construction_Job__c/listViews/Construction_Jobs_by_Status.listView-meta.xml",
+            "isDirectory": false,
+            "size": 512,
+            "modifiedTime": 1556651752614,
+            "changeTime": 1556651752614,
+            "contentHash": "2fca65c1132503a2a2b0f56237755b7f0ff1bd42",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Opportunity",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Opportunity",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1556651752629,
+            "changeTime": 1556651752629,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Opportunity/fields",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Opportunity/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1556651752629,
+            "changeTime": 1556651752629,
+            "contentHash": "1740093b7b6822f502fb9b9c36f4ef06a30482e4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Opportunity/fields/Construction_Job__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/objects/Opportunity/fields/Construction_Job__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 587,
+            "modifiedTime": 1556651752629,
+            "changeTime": 1556651752629,
+            "contentHash": "4d4fe187ad7ec5a533fa3a06fe3f44a8ff453fb7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1556651752632,
+            "changeTime": 1556651752632,
+            "contentHash": "533e19a2194bdadbe9eff832c18b847fb986dbc8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/tabs/Construction_Job__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/tabs/Construction_Job__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1556651752632,
+            "changeTime": 1556651752632,
+            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard",
+        {
+            "sourcePath": "/Users/jlupton/Projects/bidboard",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1556651826109,
+            "changeTime": 1556651826109,
+            "contentHash": "3d1f45965a18e841e49e6db153850fbb145335a6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/permissionsets/BidBoard.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/permissionsets/BidBoard.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1708,
+            "modifiedTime": 1556652319696,
+            "changeTime": 1556652319696,
+            "contentHash": "8b9afd221324c3aa40732427de956d685a737c3f"
+        }
+    ],
+    [
+        "/Users/jlupton/Projects/bidboard/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/jlupton/Projects/bidboard/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1556652319696,
+            "changeTime": 1556652319696,
+            "contentHash": "4c012ed69b6780f61b65be37bd18d84e86afb423"
+        }
+    ]
+]
